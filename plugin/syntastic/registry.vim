@@ -36,6 +36,7 @@ let s:_DEFAULT_CHECKERS = {
         \ 'elixir':        [],
         \ 'erlang':        ['escript'],
         \ 'eruby':         ['ruby'],
+        \ 'felix':         ['felix'],
         \ 'fortran':       ['gfortran'],
         \ 'glsl':          ['cgc'],
         \ 'go':            [],

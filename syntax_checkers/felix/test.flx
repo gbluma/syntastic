@@ -1,0 +1,5 @@
+
+
+
+fun foo(x:int)=> 3;
+println$ foo();
